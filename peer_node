@@ -4,7 +4,7 @@ git clone https://github.com/PEER-Inc/peer-node-installer.git
 
 cd peer-node-installer
 
-chmod +x substrate 
+sudo chmod +x substrate 
 
 
 echo "Enter Your Node Name: "
