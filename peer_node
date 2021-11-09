@@ -1,4 +1,7 @@
 #!/bin/bash
+sudo apt update
+
+sudo apt install git 
 
 git clone https://github.com/PEER-Inc/peer-node-installer.git
 
