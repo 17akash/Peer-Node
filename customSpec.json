@@ -81,7 +81,7 @@
             1000000000000000000000
           ],
 	  [
-	  "5Ek6wAt3xwKef2b16aZbeSk4dNNPiAXrm2kcBYksK6CteGzL",
+	  "5Dk7bdy3zJxUD5h1rB4MdSauin5YdnRdfJgRbtxviTuLp3RV",
 	  300000000000000000000000
 	  ]
         ]
@@ -249,7 +249,7 @@
       },
       "treasury": null,
       "sudo": {
-        "key": "5Ek6wAt3xwKef2b16aZbeSk4dNNPiAXrm2kcBYksK6CteGzL"
+        "key": "5Dk7bdy3zJxUD5h1rB4MdSauin5YdnRdfJgRbtxviTuLp3RV"
       },
       "imOnline": {
         "keys": []
